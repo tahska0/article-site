@@ -1,6 +1,6 @@
 # article-site
 
-# hosted on my http://myarticlessite.herokuapp.com/
+# Deployed on heroku: http://myarticlessite.herokuapp.com/
 
 # react frontend and django backend
 
